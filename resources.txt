@@ -1,0 +1,9 @@
+basic for how to access via python
+https://towardsdatascience.com/how-to-use-the-reddit-api-in-python-5e05ddfd1e5c
+
+actual api
+https://www.reddit.com/dev/api/
+
+api faq/wiki
+https://www.reddit.com/wiki/api
+
